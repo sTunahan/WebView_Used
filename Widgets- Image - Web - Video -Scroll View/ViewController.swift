@@ -1,9 +1,3 @@
-//
-//  ViewController.swift
-//  Widgets- Image - Web - Video -Scroll View
-//
-//  Created by asuftech on 12.01.2022.
-//
 
 import UIKit
 import WebKit
@@ -20,7 +14,7 @@ class ViewController: UIViewController {
         
         // -------------------  WebKitView
         
-       let myUrl = URL(string: "https://medium.com")!  // ! kullanmamızın nedeni web sitesine ulaşamıyabiliriz durumu
+       let myUrl = URL(string: "https://medium.com")!
         webKitViewVeriable.load(URLRequest(url: myUrl))
     }
 

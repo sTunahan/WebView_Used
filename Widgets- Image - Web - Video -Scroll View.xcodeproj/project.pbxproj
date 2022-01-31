@@ -16,7 +16,6 @@
 		1128C4A7278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1128C4A6278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewTests.swift */; };
 		1128C4B1278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1128C4B0278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITests.swift */; };
 		1128C4B3278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1128C4B2278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITestsLaunchTests.swift */; };
-		1128C4C0278EDD3B00A04991 /* README.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1128C4BF278EDD3B00A04991 /* README.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -50,7 +49,6 @@
 		1128C4AC278EDD1F00A04991 /* Widgets- Image - Web - Video -Scroll ViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Widgets- Image - Web - Video -Scroll ViewUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		1128C4B0278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Widgets__Image___Web___Video__Scroll_ViewUITests.swift"; sourceTree = "<group>"; };
 		1128C4B2278EDD1F00A04991 /* Widgets__Image___Web___Video__Scroll_ViewUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Widgets__Image___Web___Video__Scroll_ViewUITestsLaunchTests.swift"; sourceTree = "<group>"; };
-		1128C4BF278EDD3B00A04991 /* README.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = README.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -108,7 +106,6 @@
 				1128C498278EDD1F00A04991 /* Assets.xcassets */,
 				1128C49A278EDD1F00A04991 /* LaunchScreen.storyboard */,
 				1128C49D278EDD1F00A04991 /* Info.plist */,
-				1128C4BF278EDD3B00A04991 /* README.swift */,
 			);
 			path = "Widgets- Image - Web - Video -Scroll View";
 			sourceTree = "<group>";
@@ -262,7 +259,6 @@
 			buildActionMask = 2147483647;
 			files = (
 				1128C494278EDD1C00A04991 /* ViewController.swift in Sources */,
-				1128C4C0278EDD3B00A04991 /* README.swift in Sources */,
 				1128C490278EDD1C00A04991 /* AppDelegate.swift in Sources */,
 				1128C492278EDD1C00A04991 /* SceneDelegate.swift in Sources */,
 			);
