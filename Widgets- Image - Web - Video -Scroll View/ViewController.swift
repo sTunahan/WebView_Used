@@ -4,7 +4,7 @@ import WebKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var imageViewVeriable: UIImageView!
+    @IBOutlet weak var imageViewVeriabl: UIImageView!
     
     @IBOutlet weak var webKitViewVeriable: WKWebView!
     
@@ -20,11 +20,11 @@ class ViewController: UIViewController {
 
     // -------------------  ImageView
     @IBAction func imageButtonOne(_ sender: Any) {
-        imageViewVeriable.image = UIImage(named: "change Image1")
+        imageViewVeriabl.image = UIImage(named: "change Image1")
     }
     
     @IBAction func imageButtonTwo(_ sender: Any) {
-        imageViewVeriable.image = UIImage(named: "change Image2")
+        imageViewVeriabl.image = UIImage(named: "change Image2")
     }
 }
 
