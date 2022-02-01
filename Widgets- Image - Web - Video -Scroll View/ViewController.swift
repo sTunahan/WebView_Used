@@ -20,11 +20,11 @@ class ViewController: UIViewController {
 
     // -------------------  ImageView
     @IBAction func imageButtonOne(_ sender: Any) {
-        imageViewVeriable.image = UIImage(named: "image1")
+        imageViewVeriable.image = UIImage(named: "change Image1")
     }
     
     @IBAction func imageButtonTwo(_ sender: Any) {
-        imageViewVeriable.image = UIImage(named: "image2")
+        imageViewVeriable.image = UIImage(named: "change Image2")
     }
 }
 
